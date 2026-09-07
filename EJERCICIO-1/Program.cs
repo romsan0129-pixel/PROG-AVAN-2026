@@ -16,4 +16,4 @@ double promedio = (calificacion1 + calificacion2 + calificacion3) / 3.0;
 Console.WriteLine();
 Console.WriteLine($"El promedio de las tres calificaciones es: {promedio:F2}"); //Determinar si el alumno trabaja o no
 Console.WriteLine();
-Console.WriteLine();
+Console.ReadLine();
