@@ -22,5 +22,5 @@ if (promedio>=70)       //CLASIFICA AL ALUMNO COMO "APROBADO" O "NO APROBADO"
 else
     Console.Write("******           Alumno No Aprobado           *******");
 
-Console.WriteLine(); 
+Console.ReadLine(); 
 Console.WriteLine();

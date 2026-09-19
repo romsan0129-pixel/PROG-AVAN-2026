@@ -1,4 +1,4 @@
-﻿Console.WriteLine("EJERCICIO_2");                                    //Numero de la practica
+﻿Console.WriteLine("EJERCICIO_3");                                    //Numero de la practica
 Console.WriteLine("CÁLCULO DEL PROMEDIO DE TRES CALIFICACIONES");    //Nombre del ejercicio
 Console.WriteLine();                                                 //Instruccion para dejar un espacio en blanco en la consola
 
